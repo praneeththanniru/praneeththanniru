@@ -50,4 +50,5 @@
 
 ## 📫 Connect With Me
 
-- LinkedIn: https://www.linkedin.com/in/thanniru-praneeth/
+- 🔗 [LinkedIn](https://www.linkedin.com/in/thanniru-praneeth/)
+- 📧 Email: thannirupraneeth3@gmail.com
