@@ -1,54 +1,96 @@
 # Hi 👋 I'm Praneeth Thanniru
 
-🚀 AI-Focused Software Developer building cloud-based applications and experimenting with LLM-powered systems.
+🚀 AI Engineer & Cloud Systems Developer building autonomous LLM-powered applications and scalable cloud-based platforms.
 
 ---
 
-## 🧠 About Me
+## 🧠 Professional Summary
 
-- 💻 Building real-world platforms using **Python & Firebase**
-- 🤖 Developing **Autonomous AI Agents**
-- 📊 Experienced in **Data Analysis & Exploratory Data Analysis (EDA)**
-- ☁️ Working with **Cloud-based systems**
-- 🎓 Currently learning **Machine Learning, Deep Learning & Generative AI** at Innomatics Research Labs
+I am an AI-focused software developer passionate about building intelligent systems that combine Large Language Models (LLMs), cloud infrastructure, and real-world automation.
+
+My work focuses on:
+- Autonomous AI agents
+- Cloud-native architectures
+- Data-driven decision systems
+- Production-ready deployments
+
+Currently expanding expertise in Machine Learning, Deep Learning, and Generative AI while building real-world engineering projects.
 
 ---
 
 ## 🔥 Featured Projects
 
-### 🚀 IndiVetLabs Platform
-Cloud-based veterinary diagnostic booking platform.
+### 🚀 IndiVetLabs – Cloud-Based Veterinary Platform  
+A production-deployed veterinary diagnostic booking system built using modern cloud architecture.
 
-**Tech Stack:** HTML, Tailwind CSS, Firebase Hosting, Firestore  
-🌐 Live: https://www.indivetlabs.com
+**Tech Stack:** HTML, Tailwind CSS, Firebase Hosting, Cloud Firestore  
+🌐 Live: https://www.indivetlabs.com  
+🔗 Repository: https://github.com/praneeththanniru/indivetlabs-platform  
 
----
-
-### 🤖 AI Engineer – Autonomous Agent
-Autonomous AI agent built using Python and Docker, experimenting with LLM-based task automation.
-
-**Tech:** Python, Docker, LLM Integration
-
----
-
-### 📊 Zomato Bangalore EDA
-Exploratory Data Analysis on Zomato dataset using Python.
-
-**Tech:** Python, Pandas, Matplotlib
+Key Highlights:
+- Serverless architecture
+- Real-time Firestore integration
+- Booking workflow with discount logic
+- Production deployment on Firebase
 
 ---
 
-## 🛠 Tech Stack
+### 🤖 Autonomous AI Engineer – LLM Task Agent  
+Experimental autonomous AI system designed to automate development and DevOps workflows using LLMs.
 
-**Programming:** Python  
-**Database:** SQL  
-**Cloud:** Firebase  
-**Data Tools:** Pandas, NumPy, Matplotlib  
-**Other Tools:** Docker, Git, GitHub, Jupyter Notebook  
+**Tech Stack:** Python, Docker, LLM Integration  
+🔗 Repository: https://github.com/praneeththanniru/ai_engineer  
+
+Key Highlights:
+- Containerized execution environment
+- Modular agent architecture
+- Environment-based configuration
+- Experimental autonomous task orchestration
+
+---
+
+### 📊 Zomato Bangalore – Data Cleaning & EDA  
+End-to-end data cleaning and exploratory data analysis project focused on extracting actionable business insights.
+
+**Tech Stack:** Python, Pandas, NumPy, Matplotlib  
+🔗 Repository: https://github.com/praneeththanniru/Zomato-EDA  
+
+Key Highlights:
+- Data preprocessing pipeline
+- Business-driven EDA
+- Visualization-based insights
+- Cleaned and structured dataset transformation
+
+---
+
+## 🛠 Technical Skills
+
+### Programming
+Python, SQL
+
+### AI & Data
+Pandas, NumPy, Matplotlib, EDA, Data Cleaning
+
+### Cloud & DevOps
+Firebase Hosting, Cloud Firestore, Docker, Serverless Architecture
+
+### Tools
+Git, GitHub, Jupyter Notebook
+
+---
+
+## 🎯 Current Focus
+
+- Advanced Machine Learning
+- Deep Learning Foundations
+- Generative AI Systems
+- Autonomous Agent Architectures
+- Scalable Cloud Deployment Patterns
 
 ---
 
 ## 📫 Connect With Me
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/thanniru-praneeth/)
-- 📧 [Email Me](mailto:thannirupraeeth3@gmail.com)
+- 🔗 LinkedIn: https://www.linkedin.com/in/thanniru-praneeth/
+- 📧 Email: thannirupraneeth3@gmail.com
+- 🌐 Portfolio: https://www.indivetlabs.com
