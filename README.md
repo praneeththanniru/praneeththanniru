@@ -1,32 +1,54 @@
 # Hi 👋 I'm Praneeth Thanniru
 
-🎯 Aspiring Data Analyst passionate about transforming raw data into actionable insights.
+🚀 AI-Focused Software Developer building cloud-based applications and experimenting with LLM-powered systems.
 
 ---
 
-## 🚀 About Me
+## 🧠 About Me
 
-- 📊 Skilled in Python, SQL, Power BI
-- 🧹 Strong foundation in Data Cleaning & Exploratory Data Analysis
-- 🤖 Exploring Machine Learning & AI Systems
-- 🛠 Building real-world projects
-- 🎓 Training at Innomatics Research Labs
+- 💻 Building real-world platforms using **Python & Firebase**
+- 🤖 Developing **Autonomous AI Agents**
+- 📊 Experienced in **Data Analysis & Exploratory Data Analysis (EDA)**
+- ☁️ Working with **Cloud-based systems**
+- 🎓 Currently learning **Machine Learning, Deep Learning & Generative AI** at Innomatics Research Labs
 
 ---
 
-## 📌 Featured Projects
+## 🔥 Featured Projects
 
-### 🔹 Zomato Bangalore Data Analysis
-- Cleaned and analyzed real-world restaurant dataset
-- Performed EDA to extract pricing, rating & location insights
+### 🚀 IndiVetLabs Platform
+Cloud-based veterinary diagnostic booking platform.
 
-### 🔹 Autonomous AI DevOps Agent
-- Built an AI-based autonomous agent using Python
-- Experimenting with LLM-based automation systems
+**Tech Stack:** HTML, Tailwind CSS, Firebase Hosting, Firestore  
+🌐 Live: https://www.indivetlabs.com
+
+---
+
+### 🤖 AI Engineer – Autonomous Agent
+Autonomous AI agent built using Python and Docker, experimenting with LLM-based task automation.
+
+**Tech:** Python, Docker, LLM Integration
+
+---
+
+### 📊 Zomato Bangalore EDA
+Exploratory Data Analysis on Zomato dataset using Python.
+
+**Tech:** Python, Pandas, Matplotlib
+
+---
+
+## 🛠 Tech Stack
+
+**Programming:** Python  
+**Database:** SQL  
+**Cloud:** Firebase  
+**Data Tools:** Pandas, NumPy, Matplotlib  
+**Other Tools:** Docker, Git, GitHub, Jupyter Notebook  
 
 ---
 
 ## 📫 Connect With Me
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/thanniru-praneeth/)
-- 📧 [Email Me](mailto:thannirupraneeth3@gmail.com)
+- 📧 [Email Me](mailto:thannirupraeeth3@gmail.com)
