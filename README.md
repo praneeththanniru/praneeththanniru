@@ -1,65 +1,66 @@
 # Hi 👋 I'm Praneeth Thanniru
 
-🚀 AI Engineer & Cloud Systems Developer building autonomous LLM-powered applications and scalable cloud-based platforms.
+🚀 AI Engineer | Autonomous LLM Agents | Cloud-Native Systems | Python & Docker
 
 ---
 
 ## 🧠 Professional Summary
 
-I am an AI-focused software developer passionate about building intelligent systems that combine Large Language Models (LLMs), cloud infrastructure, and real-world automation.
+AI-focused software engineer building autonomous systems powered by Large Language Models (LLMs) and scalable cloud-native architectures.
 
-My work focuses on:
-- Autonomous AI agents
-- Cloud-native architectures
-- Data-driven decision systems
-- Production-ready deployments
+My work combines:
 
-Currently expanding expertise in Machine Learning, Deep Learning, and Generative AI while building real-world engineering projects.
+- 🤖 Autonomous AI Agents
+- ☁️ Serverless Cloud Infrastructure
+- 📊 Data-Driven Decision Systems
+- 🐳 Containerized Workflows (Docker)
+- 🚀 Production Deployment Practices
+
+Currently advancing in Machine Learning, Deep Learning, and Generative AI while developing real-world engineering systems.
 
 ---
 
 ## 🔥 Featured Projects
 
-### 🚀 IndiVetLabs – Cloud-Based Veterinary Platform  
-A production-deployed veterinary diagnostic booking system built using modern cloud architecture.
+### 🚀 IndiVetLabs – Cloud-Based Veterinary Platform
+Production-deployed veterinary diagnostic booking platform built using serverless architecture.
 
-**Tech Stack:** HTML, Tailwind CSS, Firebase Hosting, Cloud Firestore  
+**Tech:** HTML, Tailwind CSS, Firebase Hosting, Cloud Firestore  
 🌐 Live: https://www.indivetlabs.com  
-🔗 Repository: https://github.com/praneeththanniru/indivetlabs-platform  
+🔗 Repo: https://github.com/praneeththanniru/indivetlabs-platform  
 
-Key Highlights:
-- Serverless architecture
+Highlights:
 - Real-time Firestore integration
+- Serverless backend architecture
 - Booking workflow with discount logic
 - Production deployment on Firebase
 
 ---
 
-### 🤖 Autonomous AI Engineer – LLM Task Agent  
-Experimental autonomous AI system designed to automate development and DevOps workflows using LLMs.
+### 🤖 Autonomous AI Engineer – LLM Task Agent
+Experimental autonomous agent designed to automate development and DevOps workflows.
 
-**Tech Stack:** Python, Docker, LLM Integration  
-🔗 Repository: https://github.com/praneeththanniru/ai_engineer  
+**Tech:** Python, Docker, LLM Integration  
+🔗 Repo: https://github.com/praneeththanniru/ai_engineer  
 
-Key Highlights:
-- Containerized execution environment
+Highlights:
 - Modular agent architecture
+- Containerized execution
 - Environment-based configuration
-- Experimental autonomous task orchestration
+- Experimental task orchestration
 
 ---
 
-### 📊 Zomato Bangalore – Data Cleaning & EDA  
-End-to-end data cleaning and exploratory data analysis project focused on extracting actionable business insights.
+### 📊 Zomato Bangalore – Data Cleaning & EDA
+End-to-end exploratory data analysis focused on extracting business insights.
 
-**Tech Stack:** Python, Pandas, NumPy, Matplotlib  
-🔗 Repository: https://github.com/praneeththanniru/Zomato-EDA  
+**Tech:** Python, Pandas, NumPy, Matplotlib  
+🔗 Repo: https://github.com/praneeththanniru/Zomato-EDA  
 
-Key Highlights:
+Highlights:
 - Data preprocessing pipeline
 - Business-driven EDA
-- Visualization-based insights
-- Cleaned and structured dataset transformation
+- Insight-focused visualizations
 
 ---
 
@@ -69,7 +70,7 @@ Key Highlights:
 Python, SQL
 
 ### AI & Data
-Pandas, NumPy, Matplotlib, EDA, Data Cleaning
+Pandas, NumPy, Matplotlib, Data Cleaning, EDA
 
 ### Cloud & DevOps
 Firebase Hosting, Cloud Firestore, Docker, Serverless Architecture
