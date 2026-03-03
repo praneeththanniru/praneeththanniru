@@ -111,6 +111,8 @@ Exploratory data analysis project extracting business insights from restaurant d
 
 ## 📫 Connect With Me
 
-LinkedIn: https://www.linkedin.com/in/thanniru-praneeth/  
-Portfolio: https://www.indivetlabs.com  
-Email: thannirupraneeth3@gmail.com
+## Connect
+
+- LinkedIn: [thanniru-praneeth](https://www.linkedin.com/in/thanniru-praneeth/)
+- Portfolio: [indivetlabs.com](https://www.indivetlabs.com)
+- Email: [thannirupraneeth3@gmail.com](mailto:thannirupraneeth3@gmail.com)
