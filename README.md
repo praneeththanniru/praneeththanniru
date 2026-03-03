@@ -16,14 +16,14 @@
 
 ## 🛠 Tech Stack
 
-- Python  
-- SQL  
-- Power BI  
-- Pandas  
-- NumPy  
-- Matplotlib  
-- Seaborn  
-- Jupyter Notebook  
+- Python
+- SQL
+- Power BI
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Jupyter Notebook
 
 ---
 
