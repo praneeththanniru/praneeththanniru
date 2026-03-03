@@ -29,4 +29,4 @@
 ## 📫 Connect With Me
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/thanniru-praneeth/)
-- 📧 Email: [thannirupraneeth3@gmail.com](mailto:thannirupraneeth3@gmail.com)
+- 📧 Email: [thannirupraneeth3@gmail.com] (mailto:thannirupraneeth3@gmail.com)
