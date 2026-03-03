@@ -1,97 +1,114 @@
 # Hi 👋 I'm Praneeth Thanniru
 
-🚀 AI Engineer | Autonomous LLM Agents | Cloud-Native Systems | Python & Docker
+🚀 AI-Focused Software Developer  
+🐍 Python | ☁️ Firebase & Cloud Systems | 🤖 Learning ML, DL & Building LLM Applications  
 
 ---
 
-## 🧠 Professional Summary
+## 🧠 About Me
 
-AI-focused software engineer building autonomous systems powered by Large Language Models (LLMs) and scalable cloud-native architectures.
+I build real-world cloud-based applications using Python and Firebase while actively learning Machine Learning, Deep Learning, and Generative AI concepts.
 
-My work combines:
+My focus is on transitioning from cloud-based software systems to intelligent AI-powered applications by combining:
 
-- 🤖 Autonomous AI Agents
-- ☁️ Serverless Cloud Infrastructure
-- 📊 Data-Driven Decision Systems
-- 🐳 Containerized Workflows (Docker)
-- 🚀 Production Deployment Practices
+- Scalable cloud architecture  
+- Structured backend development  
+- Data-driven thinking  
+- LLM-based experimentation  
 
-Currently advancing in Machine Learning, Deep Learning, and Generative AI while developing real-world engineering systems.
+I am currently strengthening my ML & DL foundations while building small AI systems to understand real-world implementation.
 
 ---
 
 ## 🔥 Featured Projects
 
 ### 🚀 IndiVetLabs – Cloud-Based Veterinary Platform
-Production-deployed veterinary diagnostic booking platform built using serverless architecture.
 
-**Tech:** HTML, Tailwind CSS, Firebase Hosting, Cloud Firestore  
+A live veterinary diagnostic booking platform built and deployed using serverless architecture.
+
+**Tech Stack:** HTML, Tailwind CSS, Firebase Hosting, Cloud Firestore  
 🌐 Live: https://www.indivetlabs.com  
-🔗 Repo: https://github.com/praneeththanniru/indivetlabs-platform  
+🔗 Repository: https://github.com/praneeththanniru/indivetlabs-platform  
 
-Highlights:
-- Real-time Firestore integration
-- Serverless backend architecture
-- Booking workflow with discount logic
-- Production deployment on Firebase
+**What I Built:**
+- Real-time Cloud Firestore integration  
+- Serverless backend workflow  
+- Structured booking & discount logic  
+- Production deployment using Firebase Hosting  
 
 ---
 
-### 🤖 Autonomous AI Engineer – LLM Task Agent
-Experimental autonomous agent designed to automate development and DevOps workflows.
+### 🤖 AI Agent – LLM Workflow Experiment
 
-**Tech:** Python, Docker, LLM Integration  
-🔗 Repo: https://github.com/praneeththanniru/ai_engineer  
+An experimental AI agent exploring modular automation and LLM-based task execution.
 
-Highlights:
-- Modular agent architecture
-- Containerized execution
-- Environment-based configuration
-- Experimental task orchestration
+**Tech Stack:** Python, Docker  
+🔗 Repository: https://github.com/praneeththanniru/ai_engineer  
+
+**Key Concepts:**
+- Modular system design  
+- Docker-based containerized execution  
+- Environment variable configuration  
+- Early-stage LLM workflow experimentation  
 
 ---
 
 ### 📊 Zomato Bangalore – Data Cleaning & EDA
-End-to-end exploratory data analysis focused on extracting business insights.
 
-**Tech:** Python, Pandas, NumPy, Matplotlib  
-🔗 Repo: https://github.com/praneeththanniru/Zomato-EDA  
+Exploratory data analysis project extracting business insights from restaurant data.
 
-Highlights:
-- Data preprocessing pipeline
-- Business-driven EDA
-- Insight-focused visualizations
+**Tech Stack:** Python, Pandas, NumPy, Matplotlib  
+🔗 Repository: https://github.com/praneeththanniru/Zomato-EDA  
+
+**What I Practiced:**
+- Data preprocessing & cleaning  
+- Handling inconsistent/missing values  
+- Insight-focused visualizations  
+- Business-oriented analysis  
 
 ---
 
 ## 🛠 Technical Skills
 
 ### Programming
-Python, SQL
+- Python  
+- SQL  
 
-### AI & Data
-Pandas, NumPy, Matplotlib, Data Cleaning, EDA
+### Data & AI
+- Pandas  
+- NumPy  
+- Matplotlib  
+- Data Cleaning  
+- Exploratory Data Analysis  
+- Machine Learning (Foundations)  
+- Deep Learning (Learning Phase)  
+- LLM Application Experimentation  
 
-### Cloud & DevOps
-Firebase Hosting, Cloud Firestore, Docker, Serverless Architecture
+### Cloud & Deployment
+- Firebase Hosting  
+- Cloud Firestore  
+- Serverless Architecture  
+- Docker  
 
 ### Tools
-Git, GitHub, Jupyter Notebook
+- Git  
+- GitHub  
+- Jupyter Notebook  
 
 ---
 
 ## 🎯 Current Focus
 
-- Advanced Machine Learning
-- Deep Learning Foundations
-- Generative AI Systems
-- Autonomous Agent Architectures
-- Scalable Cloud Deployment Patterns
+- Strengthening ML fundamentals (supervised/unsupervised learning)  
+- Understanding neural networks & backpropagation  
+- Exploring transformer-based architectures  
+- Building small-scale LLM-powered applications  
+- Improving system design skills  
 
 ---
 
 ## 📫 Connect With Me
 
-- 🔗 LinkedIn: https://www.linkedin.com/in/thanniru-praneeth/
-- 📧 Email: thannirupraneeth3@gmail.com
-- 🌐 Portfolio: https://www.indivetlabs.com
+🔗 LinkedIn: https://www.linkedin.com/in/thanniru-praneeth/  
+📧 Email: thannirupraneeth3@gmail.com  
+🌐 Portfolio: https://www.indivetlabs.com
