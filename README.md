@@ -1,7 +1,7 @@
 # Hi 👋 I'm Praneeth Thanniru
 
 🚀 AI-Focused Software Developer  
-🐍 Python | ☁️ Firebase & Cloud Systems | 🤖 Learning ML, DL & Building Autonomous Multi-Agent AI Systems 
+🐍 Python | ☁️ Firebase & Cloud Systems | 🤖 Learning ML, DL & Building Autonomous Multi-Agent LLM system
 
 ---
 
